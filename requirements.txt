@@ -3,5 +3,9 @@ numpy
 seaborn
 scikit-learn
 matplotlib
+Flask
+dill
+matplotlib
+ipykernel
 
 -e .
