@@ -20,11 +20,15 @@ list_of_files = [
     f"src/piplines/training_pipline.py",
     f"notebook/data/test.csv",
     f"notebook/EDA.ipynb",
+    f"templetes/index.html"
+    f"static/images/im.jpg",
+    f"static/css/style.css",
     "README.md",
     "requirements.txt",
     ".gitignore",
     "setup.py",
-    "Dockerfile"
+    "Dockerfile",
+    "app.py"
 ]
 
 for filepath in list_of_files:
