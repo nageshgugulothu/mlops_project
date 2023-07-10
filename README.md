@@ -1,4 +1,4 @@
-# Gemstone Price Prediction - Nagesh
+# Gemstone Price Prediction - Nagesh - Mlops End to End Project
 
 ### About the Data :
 
